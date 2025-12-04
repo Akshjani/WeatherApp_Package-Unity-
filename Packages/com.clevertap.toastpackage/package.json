@@ -1,0 +1,18 @@
+﻿{
+    "name": "com.clevertap.toastpackage",
+    "version": "1.0.0",
+    "displayName": "CleverTap Toast Package",
+    "description": "A Unity package for displaying Toast on Android and Snackbar on iOS",
+    "unity": "2020.3",
+    "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com"
+    },
+    "keywords": [
+        "toast",
+        "snackbar",
+        "android",
+        "ios",
+        "notification"
+    ]
+}
